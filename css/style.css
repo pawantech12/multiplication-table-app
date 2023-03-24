@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app-container{
+    background: #95BDFF;
+}
+#userinput{
+    border: none;
+    background: #fff;
+    width: 30%;
+}
+#userinput:focus{
+    outline: none;
+}
+#mulbtn{
+    border: none;
+    background: #c7dafa;
+    color: #0F6292;
+}
+
+#display{
+    background: #fff;
+}
